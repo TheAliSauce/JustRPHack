@@ -34,7 +34,7 @@ const QUESTIONS = {
     'text background color' : (d) => d.colors['text'],
     'number color' : (d) => d.colors['number'],
     'shape color' : (d) => d.colors['shape'],
-    'color text' : (d) => d.text[0],
+    'text color' : (d) => d.text[0],
     'shape text' : (d) => d.text[1],
     'shape' : (d) => d.shape
 }
